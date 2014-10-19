@@ -1,4 +1,4 @@
-jhana-recorder
+node-mindwave-recorder
 ==============
 
-Jhana Recorder is used to record your brainwaves.
+node-mindwave Recorder is used to record your brainwaves.
